@@ -1,0 +1,76 @@
+
+/* CONFIG STYLE OF CARD TYPE OF {NAME, NUMBER, DATE, CVC...}
+
+ */
+
+ .front-card img{
+    width: 4vw;
+    margin: 5px 20px;
+
+}
+
+.front-card{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   
+   
+
+}
+
+
+.card-design{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.card-design span{
+    color: white;
+    font-family: monospace;
+    font-size: 1.5em;
+
+}
+
+
+.data-client{
+    display: flex;
+    width: 32vw;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+    
+
+}
+
+.data-client >p{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: .9em;
+
+}
+
+ 
+
+
+
+.back-cvc{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: flex-end;
+    min-height: 14vh;
+    margin-right: 2.7em;
+    
+    color: white;
+}
+
+
+.back-cvc span{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
