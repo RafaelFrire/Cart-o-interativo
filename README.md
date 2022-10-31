@@ -1,4 +1,4 @@
-# Cart-o-interativo
+# Cartão-interativo
 Projeto com fim Acadêmico
 
 Esse projeto foi um desafio, com ele eu puder testar minhas habilidades e aprimorar
